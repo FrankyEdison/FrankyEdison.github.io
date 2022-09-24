@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Franky</title>
-        <link>https://FrankyEdison.github.io/posts/</link>
-        <description>所有文章 | Franky</description>
+        <title>computer - 分类 - Franky</title>
+        <link>https://FrankyEdison.github.io/categories/computer/</link>
+        <description>computer - 分类 - Franky</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>lizelin56@gmail.com (Franky)</managingEditor>
-            <webMaster>lizelin56@gmail.com (Franky)</webMaster><lastBuildDate>Sat, 24 Sep 2022 00:46:16 &#43;0800</lastBuildDate><atom:link href="https://FrankyEdison.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>lizelin56@gmail.com (Franky)</webMaster><lastBuildDate>Sat, 24 Sep 2022 00:46:16 &#43;0800</lastBuildDate><atom:link href="https://FrankyEdison.github.io/categories/computer/" rel="self" type="application/rss+xml" /><item>
     <title>如何使用hugo&#43;github搭建个人博客</title>
     <link>https://FrankyEdison.github.io/posts/hello-world/</link>
     <pubDate>Sat, 24 Sep 2022 00:46:16 &#43;0800</pubDate><author>

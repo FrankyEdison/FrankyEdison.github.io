@@ -1,7 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - 标签 - Franky&#39;s Blog</title>
+        <title>Tags - 标签 - Franky</title>
         <link>https://FrankyEdison.github.io/tags/</link>
-        <description>Tags - 标签 - Franky&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://FrankyEdison.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - 标签 - Franky</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>lizelin56@gmail.com (Franky)</managingEditor>
+            <webMaster>lizelin56@gmail.com (Franky)</webMaster><lastBuildDate>Sat, 24 Sep 2022 00:46:16 &#43;0800</lastBuildDate><atom:link href="https://FrankyEdison.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>hugo</title>
+    <link>https://FrankyEdison.github.io/tags/hugo/</link>
+    <pubDate>Sat, 24 Sep 2022 00:46:16 &#43;0800</pubDate><author>
+        <name>Franky</name>
+    </author><guid>https://FrankyEdison.github.io/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

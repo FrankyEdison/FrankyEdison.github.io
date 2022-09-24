@@ -1,16 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Franky&#39;s Blog</title>
+        <title>Franky</title>
         <link>https://FrankyEdison.github.io/</link>
-        <description>Franky&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 24 Sep 2022 00:46:21 &#43;0800</lastBuildDate>
+        <description>欢迎来到Franky的世界</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>lizelin56@gmail.com (Franky)</managingEditor>
+            <webMaster>lizelin56@gmail.com (Franky)</webMaster><lastBuildDate>Sat, 24 Sep 2022 00:46:21 &#43;0800</lastBuildDate>
             <atom:link href="https://FrankyEdison.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Hello World</title>
+    <title>如何使用hugo&#43;github搭建个人博客</title>
     <link>https://FrankyEdison.github.io/posts/hello-world/</link>
     <pubDate>Sat, 24 Sep 2022 00:46:16 &#43;0800</pubDate><author>
-        <name>作者</name>
-    </author><guid>https://FrankyEdison.github.io/posts/hello-world/</guid>
-    <description><![CDATA[hello]]></description>
+                        <name>Franky</name><uri>https://FrankyEdison.github.io/authors/franky</uri></author><guid>https://FrankyEdison.github.io/posts/hello-world/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="images/hugo.png" referrerpolicy="no-referrer">
+            </div>Windows搭建hugo个人博客并部署到github]]></description>
 </item></channel>
 </rss>
